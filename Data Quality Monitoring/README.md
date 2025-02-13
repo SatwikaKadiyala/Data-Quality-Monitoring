@@ -36,7 +36,7 @@ Python dependencies are managed via `requirements.txt`, ensuring proper installa
    ```  
 2. Navigate to the project directory:  
    ```bash
-   cd Data Quality Monitoring
+   cd Data-Quality-Monitoring
    ```  
 3. Set up the environment:  
 
