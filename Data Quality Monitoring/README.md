@@ -32,7 +32,7 @@ Python dependencies are managed via `requirements.txt`, ensuring proper installa
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/SatwikaKadiyala/Data Quality Monitoring.git
+   git clone https://github.com/SatwikaKadiyala/Data-Quality-Monitoring.git
    ```  
 2. Navigate to the project directory:  
    ```bash
